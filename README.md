@@ -150,7 +150,7 @@ Pole Exterior: B<br>
 </details>
 
 
-### Kitchen
+## Kitchen
 
 <details><summary>Clue 1</summary>
 <p>
@@ -200,7 +200,7 @@ The encoded message is BRAN FLAKES AT DROP.
 </p>
 </details>
 
-### Laser Maze
+## Laser Maze
 
 <details><summary>Clue 1</summary>
 <p>
@@ -256,9 +256,7 @@ The sequence to get to the other side is: D, C, A, H, G, A, A, B, D, C.
 </p>
 </details>
 
-
-
-### Toy Sentinel
+## Toy Sentinel
 
 <details><summary>Clue 1</summary>
 <p>
@@ -287,34 +285,34 @@ Now figure out how each piece connects based on if there are 1 or 2 wires that l
 <details><summary>Answer for the Circuit</summary>
 <p>
 
-    ![circuit diagram](https://elf.enterprises/static/img/full-circuit.jpg)
+<img src="https://elf.enterprises/static/img/full-circuit.jpg">
 
 </p>
 </details>
 
-<details><summary>Clue 3</summary>
+<details><summary>Clue for the Wire Cutting</summary>
 <p>
 
-Now figure out how each piece connects based on if there are 1 or 2 wires that leave it.
+Look at the complete circuit diagram and the orientation of the battery. The motherboard is the green, square component because the others correspond to the battery, the goo gun, and the bat.
 
 </p>
 </details>
 
 
-<details><summary>Answer</summary>
+<details><summary>Answer for the Wire Cutting</summary>
 <p>
 
-The amounts are 1, 7, 8, 1 19, 20. Changing those to letters (where A=1 and Z=26) yields the answer AGHAST.
+The answer is the top wire.
 
 </p>
 </details>
 
-### The Dining Room
+## The Penguin Lock
 
 <details><summary>Clue 1</summary>
 <p>
 
-The napkin's patterns are very symmetrical, which may give you a hint for how your folds should be.
+Look at the map and strip of paper in the journal. The strip of paper contains unique mountains that appear just once in the map. Can you think of a way they can correspond to which letter to press for the lock?
 
 </p>
 </details>
@@ -322,35 +320,7 @@ The napkin's patterns are very symmetrical, which may give you a hint for how yo
 <details><summary>Clue 2</summary>
 <p>
 
-Do you know how to fold a cootie catcher? The answer is similar.
-
-</p>
-</details>
-
-<details><summary>Answer</summary>
-<p>
-
-After folding into a 2x2 such that only red is showing, the napkin should reveal two letters on each side. HU and NT spells out the answer HUNT. 
-
-</p>
-</details>
-
-## Part 1
-
-### Newspaper Clipping
-
-<details><summary>Clue 1</summary>
-<p>
-
-The ad on the back and the newspaper's tagline both give a clue for what is very strange about each of the four articles.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Each of the four articles uses long-winded phrases in lieu of a common word.
+The lock has 8 keys. They are divided around a circle similar to how a compass has various directions (N, NE, E, SE, S, SW, W, NW).
 
 </p>
 </details>
@@ -358,153 +328,60 @@ Each of the four articles uses long-winded phrases in lieu of a common word.
 <details><summary>Clue 3</summary>
 <p>
 
-The common words that are not used all are homophones. Can you figure out of what? 
+There is a penguin both in the map and on the lock. Imagine that you are going through the list of 7 mountains on the strip of paper from the penguins point of view (not from a birds-eye map view). Which directions would you take to get to each of the 7 mountains?
+
+</p>
+</details>
+
+<details><summary>Clue 4</summary>
+<p>
+
+The first two letters are R and E.
+ 
+</p>
+</details>
+
+<details><summary>Answer</summary>
+<p>
+
+The passcode is REVENGE.
+ 
+</p>
+</details>
+
+
+## Which Santa
+
+<details><summary>Clue 1</summary>
+<p>
+
+You will need to use information you've been told earlier in the game about Nick and Terry.
+
+</p>
+</details>
+
+<details><summary>Clue 2</summary>
+<p>
+
+Look back at the original email that Pip sent. Read how she described Terry.
+
+</p>
+</details>
+
+<details><summary>Clue 3</summary>
+<p>
+
+Look closely at each twin's facial features with the looking glass. Do you see something on one of them that you'd only find on Nick but not on Terry? 
 
 </p>
 </details>
  
-<details><summary>Clue 4</summary>
+<details><summary>Answer</summary>
 <p>
 
-Once you get a word from the four newspaper articles, you need to figure out which location on the map best fits the word. You may want to consider synonyms.
+The twin on the left is Nick, because there are cookie crumbs in his beard. Terry hates cookies so would never eat them.
 
-</p>
-</details>
-
-### Ciphertext and circular keys
-
-<details><summary>Clue 1</summary>
-<p>
-
-Use 1 key at a time with the ciphertext.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Rotate each key until you are able to see a word appear based on the lines that are fully connected.
-
-</p>
-</details>
-
-<details><summary>Clue 3</summary>
-<p>
-
-Each key gives a word. All three keys reveal a phrase that refers to a location on the map.
-
-</p>
-</details>
-
-### Photos
-
-<details><summary>Clue 1</summary>
-<p>
-
-You'll likely need to use the Internet to do some sleuthing and figure out the landmarks.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Each of the photos reveals a famous landmark in England.
-
-</p>
-</details>
-
-<details><summary>Clue 3</summary>
-<p>
-
-What is in the photo may look slightly different from the present day.
-
-</p>
-</details>
-
-<details><summary>Clue 4</summary>
-<p>
-
-Each landmark's name consists of two words. Take the common letters between the two words (each photo yields 1-2 common letters).
-
-</p>
-</details>
-
-### Bill of fare
-
-<details><summary>Clue 1</summary>
-<p>
-
-Study the dishes and their corresponding prices together.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Each dish and price pair results in a part of the answer. The name of the restaurant may provide a clue for what to do.
-
-</p>
-</details>
-
-<details><summary>Clue 3</summary>
-<p>
-
-The 's' and 'd' stand for old currencies that was used in Britain during this time period.
-
-</p>
-</details>
-
-### Flyer
-
-<details><summary>Clue 1</summary>
-<p>
-
-The  flyer's title and theme contain a clue of what to do.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Have you tried spelling?
-
-</p>
-</details>
-
-<details><summary>Clue 3</summary>
-<p>
-
-Each word in the title traces out a letter.
-
-</p>
-</details>
-
-<details><summary>Clue 3</summary>
-<p>
-
-Unscramble the four letters to reveal a word that refers to a location on the map.
-
-</p>
-</details>
-
-### The final puzzle
-
-<details><summary>Clue 1</summary>
-<p>
-
-Once you have all of the other puzzles solved, you will be able to solve the final puzzle.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Use the coordinates on the map.
+Congratulations, you're nearly there!
 
 </p>
 </details>
