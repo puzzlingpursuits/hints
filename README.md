@@ -1,15 +1,93 @@
-# Hints
+# Hints for Elf Game
 
 View additional hints for each puzzle if you're feeling stuck. Many people use at least a few hints to go through all of the puzzles.
 
-## Part 2
+## Type Something in the Response Window
 
-### The Foyer
+<details><summary>Clue</summary>
+<p>
+
+The word "something" is bolded.
+
+</p>
+</details>
+
+<details><summary>Answer</summary>
+<p>
+
+Literally type the word "something" and click Submit.
+
+</p>
+</details>
+
+## Who am I?
 
 <details><summary>Clue 1</summary>
 <p>
 
-You won't be able to solve The Foyer until you've solved all other 6 puzzles. Re-read the letter left by Reager for clues.
+The character described comes from a famous Christmas song that was introduced in 1950. The song was then adapted into a Christmas special on TV named after the character.
+
+</p>
+</details>
+
+<details><summary>Answer</summary>
+<p>
+
+The character is Frosty the Snowman.
+
+</p>
+</details>
+
+## What am I?
+
+<details><summary>Clue</summary>
+<p>
+
+Think of an edible holiday "house" that often has gumdrops on the roof.
+
+</p>
+</details>
+ 
+<details><summary>Answer</summary>
+<p>
+
+The answer is a gingerbread house.
+
+</p>
+</details>
+
+## How many golden rings?
+
+<details><summary>Clue 1</summary>
+<p>
+
+The dates given are the twelve days of Christmas. The question is based off the song, "The Twelve Days of Christmas." 
+ 
+</p>
+</details>
+
+<details><summary>Clue 2</summary>
+<p>
+
+On the fifth day of Christmas, the true love gifts five golden rings. The song then continues on through days six through day twelve, and on each day, the true love continues to gift five golden rings.
+
+</p>
+</details>
+
+<details><summary>Answer</summary>
+<p>
+
+From the 5th to the 12th days of Christmas (8 days in total), the true love gifts 5 rings on each day. The total is 8 x 5 = 40 golden rings.
+
+</p>
+</details>
+ 
+ ## Security Camera
+ 
+<details><summary>Clue 1</summary>
+<p>
+
+Look at main line B. There are 6 lines exiting it (3 towards the top and 3 towards the right), which means it must be the main line for the Pole Exterior, the only area with 6 cameras.
 
 </p>
 </details>
@@ -17,7 +95,7 @@ You won't be able to solve The Foyer until you've solved all other 6 puzzles. Re
 <details><summary>Clue 2</summary>
 <p>
 
-"Connect the dots" in the floorplan.
+Look at the two pipes towards the top of the image that are connected by a differently colored line. Use the second note: this is how the elves connected the dormitories to the kitchen. Since the Dormitories only has 3 cameras, the branched line on the left with 4 lines cannot be for the Dormitories. So, the one on the left must be for the Kitchen, and the one on the right must be for the Dormitories.
 
 </p>
 </details>
@@ -25,94 +103,53 @@ You won't be able to solve The Foyer until you've solved all other 6 puzzles. Re
 <details><summary>Clue 3</summary>
 <p>
 
-The lines created by connecting the dots in the floorplan intersect letters. You can extract 1 letter from each room. 
+Look at main lines A and F. They both go into a grey box, and one of the lines exiting the box is for the Dormitories. So, either A or F is the main line for the Dormitories.
+
+The Dormitories has 3 cameras. If main line A was for the Dormitories, all 3 lines exiting would have to be from A, which means that F ends in the grey box. However, it is not possible for a line to end in a grey box. Therefore, the main line F must be the Dormitories.
+ 
+The main line F already has 1 line branching off of it before the grey box, so to be the Dormitories with 3 cameras, F must also branch into 2 lines exiting the grey box. This means that A has one exiting line, so A has 1 camera.
+ 
+Consequently, F is the Dormitories and A is the Sleigh Hangar.
 
 </p>
 </details>
- 
+
 <details><summary>Clue 4</summary>
 <p>
 
-Anagram the letters crossed.
-
-</p>
-</details>
-
-<details><summary>Answer</summary>
-<p>
-
-The answer is ATONED.
-
-</p>
-</details>
-
-### The Parlour Room
-
-<details><summary>Clue 1</summary>
-<p>
-
-There is something familiar yet strange about the paintings.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Each painting is of a famous piece of art, but there is either something added or something missing from each.
-
-</p>
-</details>
-
-<details><summary>Clue 3</summary>
-<p>
-
-What is added or taken away from each painting goes in the plaque underneath. Extract the letters with a rectangle around them. 
-
-</p>
-</details>
+Look at main lines C, D, and E which all feed into the other grey box. There are 3 lines exiting the grey box. Since no line can end in the box, each line exiting must belong to one main line.
  
-<details><summary>Answer</summary>
-<p>
-
-The answer is ADORN. The words from the paintings are necklAce, shaDow, flOwers, peaRl, and sNakes.
+The 4 branches at the top go to the Kitchen, from Clue 2. Since the Kitchen has 5 cameras, the main line must provide 1 extra branch to get to 5. Before the grey box, C has 0 branches, D has 1 branch, and E has 2 branches. So, D must be for the Kitchen.
 
 </p>
 </details>
 
-### The Study
-
-<details><summary>Clue 1</summary>
+<details><summary>Clue 5</summary>
 <p>
 
-The first poem explains how the couplets work. For each couplet, the first line describes a word and the second line describes another word that can be formed by adding an extra letter. For example, CAR -> CARE or BET -> BEAT.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Each couplet yields a single letter that is from the added letter.
-
-</p>
-</details>
-
-<details><summary>Clue 3</summary>
-<p>
-
-Anagram all of the extra letters obtained. 
-
-</p>
-</details>
+That leaves main lines C and E. By deciding which of the remaining two exiting lines belong to C and D, you can pair them up to main lines that branch to 3 and 4 cameras or main lines that branch to 5 and 2 cameras.
  
-<details><summary>Answer</summary>
-<p>
-
-The answer is SECRET. The words were RAIN -> TRAIN (T), TAIL -> TRAIL (R), HARE -> SHARE (S), SOLD -> SCOLD (C), BAR -> BEAR (E), and SAT -> SEAT (E).
+Since only the Stables (3 cameras) and Toy Workshop (4 cameras) are left, main line C must branch to 3 cameras and E must branch to 4 cameras.
 
 </p>
 </details>
+
+<details><summary>Answer</summary>
+<p>
+
+The answer is AFCEDB.
+ 
+Sleigh Hangar: A
+Dormitories: F
+Stables: C
+Toy Workshop: E
+Kitchen: D
+Pole Exterior: B
+
+</p>
+</details>
+
+
 
 ### The Solarium
 
