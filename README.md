@@ -256,7 +256,7 @@ The sequence to get to the other side is: D, C, A, H, G, A, A, B, D, C.
 </p>
 </details>
 
-## Toy Sentinel
+## Nutcracker
 
 <details><summary>Clue 1</summary>
 <p>
@@ -307,7 +307,7 @@ The answer is the top wire.
 </p>
 </details>
 
-## The Penguin Lock
+## Penguin Lock
 
 <details><summary>Clue 1</summary>
 <p>
