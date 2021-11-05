@@ -82,7 +82,7 @@ From the 5th to the 12th days of Christmas (8 days in total), the true love gift
 </p>
 </details>
  
- ## Security Camera
+ ## Security Hub
  
 <details><summary>Clue 1</summary>
 <p>
@@ -139,82 +139,23 @@ Since only the Stables (3 cameras) and Toy Workshop (4 cameras) are left, main l
 
 The answer is AFCEDB.
  
-Sleigh Hangar: A
-Dormitories: F
-Stables: C
-Toy Workshop: E
-Kitchen: D
-Pole Exterior: B
+Sleigh Hangar: A<br>
+Dormitories: F<br>
+Stables: C<br>
+Toy Workshop: E<br>
+Kitchen: D<br>
+Pole Exterior: B<br>
 
 </p>
 </details>
 
 
-
-### The Solarium
-
-<details><summary>Clue for Card I.</summary>
-<p>
-
-Do you see the pattern of leaves on another card? Can you match them up to decode the message on Card I?
-
-</p>
-</details>
-
-<details><summary>Clue for Card II.</summary>
-<p>
-
-By following the instructions given on the card, there are four additional plots where roses must go when following the rules. Extract those four letters.
-
-</p>
-</details>
-
-<details><summary>Clue for Card III.</summary>
-<p>
-
-Solve the crossword, and take the letters where there is a leaf in the box. 
-
-</p>
-</details>
-
-<details><summary>Clue for Card IV.</summary>
-<p>
-
-Each of the four symbols represents a different letter. The word you are looking for is at the top in the rectangle. The other 6 words underneath help you figure out what letters the symbols represent. 
-
-</p>
-</details>
-
-<details><summary>Clue for the overall puzzle</summary>
-<p>
-
-The Solarium puzzle is a bit different in that you need to solve mini-puzzles in order to get a message, which then allows you to extract a word that is the lock combination. 
-
-</p>
-</details>
-
-<details><summary>Answer part 1</summary>
-<p>
-
-The four cards reveal the phrase MAKE FOUR LEAF CLOVER. Using the backs of the cards, make a four leaf clover (there is approximately a quarter of the clover on each card).
-
-</p>
-</details>
-
-<details><summary>Answer part 2</summary>
-<p>
-
-After making the clover, flip the four cards around. The vines create a circle around the word. The answer is CLAY.
-
-</p>
-</details>
-
-### The Bedrooms
+### Kitchen
 
 <details><summary>Clue 1</summary>
 <p>
 
-Look at the underlined words. Can you turn them into a phrase? The bolded word "reversals" may also give a clue.
+Start with the materials in the journal, the Christmas tree drawing with a message on it and the alphabet. The message is encoded by the drawing - can you figure out how?
 
 </p>
 </details>
@@ -222,7 +163,7 @@ Look at the underlined words. Can you turn them into a phrase? The bolded word "
 <details><summary>Clue 2</summary>
 <p>
 
-From clue 1, you should have the phrase "shift forward by your age." Since Reager wrote this letter to her brother Alfred, you need to figure out Alfred's age when he received the letter. The scratchings on the wall and the letter itself should help.
+Notice that the number of ornaments on the tree and the number of letters in the message are the same.
 
 </p>
 </details>
@@ -230,7 +171,7 @@ From clue 1, you should have the phrase "shift forward by your age." Since Reage
 <details><summary>Clue 3</summary>
 <p>
 
-The bolded word "Capital" provides a clue of what to shift. 
+Pay attention to the color and shape of each ornament. Looking at how the alphabet is written out may also help you figure out a pattern. 
 
 </p>
 </details>
@@ -238,49 +179,7 @@ The bolded word "Capital" provides a clue of what to shift.
 <details><summary>Clue 4</summary>
 <p>
 
-After shifting forward all the capitals by 19 and figuring out where words begin & end, you should reveal the phrase TO HAVE BEEN ALIVE BACKWARDS. 
-
-</p>
-</details>
-
-<details><summary>Answer</summary>
-<p>
-
-The definition of "LIVED" fits "to have been alive." Backwards, it spells DEVIL, which is the answer.
-
-</p>
-</details>
-
-### The Kitchen
-
-<details><summary>Clue 1</summary>
-<p>
-
-You are looking for 6 numbers that correspond to the recipe.
-
-</p>
-</details>
-
-<details><summary>Clue 2</summary>
-<p>
-
-Use #3 and #10 together to figure out the number of eggs and the ounces of butter.
-
-</p>
-</details>
-
-<details><summary>Clue 3</summary>
-<p>
-
-Use #2, #4 and the fact that you know what eggs and butter are in order to figure out the ounces of flour. 
-
-</p>
-</details>
-
-<details><summary>Clue 4</summary>
-<p>
-
-Use #2, #5, #6, and #8 to begin narrowing down the possibilities for the other four amounts. 
+Each row in the alphabet corresponds to the different ornament shape. Each column in the alphabet corresponds to a different color. So, each letter is uniquely identified by a particular ornament shape and color combination.
 
 </p>
 </details>
@@ -288,18 +187,119 @@ Use #2, #5, #6, and #8 to begin narrowing down the possibilities for the other f
 <details><summary>Clue 5</summary>
 <p>
 
-Use #9. Because all amounts are between 1-20, you can get a quick minimum and maximum sum that the amounts can be. You should get only two possible numbers for the ounces of sugar that fit the sum's range. 
+Use the pattern you've figured out from the materials in the journal to decode the new message. 
 
 </p>
 </details>
 
-<details><summary>Clue 6</summary>
+<details><summary>Answer</summary>
 <p>
 
-Now using #7, you can guess and check to see which of the two options is correct. Only one outcome works for #7 and #9. 
+The encoded message is BRAN FLAKES AT DROP.
 
 </p>
 </details>
+
+### Laser Maze
+
+<details><summary>Clue 1</summary>
+<p>
+
+Look at the materials in the journal. See if you can figure out a connection between the square pattern at the top and the laser configurations.
+
+</p>
+</details>
+
+<details><summary>Clue 2</summary>
+<p>
+
+Try out some ideas by moving Tinsel around. Most spaces won't work but if you find one that does, it will provide additional information on which squares are safe to step on.
+ 
+Also, notice that the patterns always start and end at the top, middle, or bottom of the square. This mirrors the fact that there are 3 teddy bears on the left and 3 teddy bears on the right.
+
+</p>
+</details>
+
+<details><summary>Clue 3</summary>
+<p>
+
+There are 5 columns in the laser maze and 5 square patterns, one above each column. This suggests that when you step on a tile in a particular column, the laser configuration you get is the pattern above that column.
+ 
+The first tile Tinsel should go to is D. The second tile is C.
+
+</p>
+</details>
+
+<details><summary>Clue 4</summary>
+<p>
+
+At this point, you should know how to determine exactly where each teddy bear's laser is pointing. Each teddy bear corresponds to a point on the square (top/middle/bottom and left/right). If there's a line away from that point going diagonal, then the teddy bear's laser is also pointing diagonally in the same direction. Otherwise, the teddy bear's laser is pointing straight across.
+ 
+Using this information, you can figure out which tiles are safe to step on ahead of time.
+
+</p>
+</details>
+
+<details><summary>Clue 5</summary>
+<p>
+
+To reach the end, you may have to go backwards and across before you can keep going towards the other side.
+
+</p>
+</details>
+
+<details><summary>Answer</summary>
+<p>
+
+The sequence to get to the other side is: D, C, A, H, G, A, A, B, D, C.
+
+</p>
+</details>
+
+
+
+### Toy Sentinel
+
+<details><summary>Clue 1</summary>
+<p>
+
+Try to figure out which pieces go in the center, the corners, and the middle edges. You can do this for each piece by figuring out how many sides have wires that leave it.
+
+</p>
+</details>
+
+<details><summary>Clue 2</summary>
+<p>
+
+The piece that looks like a grid must be in the center, because all four sides have wires that leave it.
+
+</p>
+</details>
+
+<details><summary>Clue 3</summary>
+<p>
+
+Now figure out how each piece connects based on if there are 1 or 2 wires that leave it.
+
+</p>
+</details>
+
+<details><summary>Answer for the Circuit</summary>
+<p>
+
+    ![circuit diagram](https://elf.enterprises/static/img/full-circuit.jpg)
+
+</p>
+</details>
+
+<details><summary>Clue 3</summary>
+<p>
+
+Now figure out how each piece connects based on if there are 1 or 2 wires that leave it.
+
+</p>
+</details>
+
 
 <details><summary>Answer</summary>
 <p>
